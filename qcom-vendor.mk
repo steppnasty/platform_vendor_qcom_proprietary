@@ -17,8 +17,7 @@ PRODUCT_PACKAGES += \
     libqc-opt \
     libmm-color-convertor \
     libmmosal \
-    libmmparser \
-    libmmparser_divxdrmlib \
+    libExtendedExtractor \
     libDivxDrm
 
 ifeq ($(DYNAMIC_SHARED_LIBV8SO),true)
