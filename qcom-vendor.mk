@@ -44,11 +44,27 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/proprietary/system/lib/egl/egl.cfg:/system/lib/egl/egl.cfg \
     vendor/qcom/proprietary/system/lib/egl/eglsubAndroid.so:/system/lib/egl/eglsubAndroid.so \
     vendor/qcom/proprietary/system/lib/egl/libEGL_adreno200.so:/system/lib/egl/libEGL_adreno200.so \
-    vendor/qcom/proprietary/system/lib/egl/libGLES_android.so:/system/lib/egl/libGLES_android.so \
     vendor/qcom/proprietary/system/lib/egl/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/qcom/proprietary/system/lib/egl/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
+    vendor/qcom/proprietary/system/lib/egl/libGLESv2S3D_adreno200.so:/system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/qcom/proprietary/system/lib/egl/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
     vendor/qcom/proprietary/system/lib/libC2D2.so:/system/lib/libC2D2.so \
+    vendor/qcom/proprietary/system/lib/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
+    vendor/qcom/proprietary/system/lib/libcneapiclient.so:/system/lib/libcneapiclient.so \
+    vendor/qcom/proprietary/system/lib/libcneqmiutils.so:/system/lib/libcneqmiutils.so \
+    vendor/qcom/proprietary/system/lib/libdiag.so:/system/lib/libdiag.so \
+    vendor/qcom/proprietary/system/lib/libDivxDrm.so:/system/lib/libDivxDrm.so \
+    vendor/qcom/proprietary/system/lib/libdnshostprio.so:/system/lib/lilbdnshostprio.so \
+    vendor/qcom/proprietary/system/lib/libExtendedExtractor.so:/system/lib/libExtendedExtractor.so \
     vendor/qcom/proprietary/system/lib/libgsl.so:/system/lib/libgsl.so \
+    vendor/qcom/proprietary/system/lib/libmm-color-convertor.so:/system/lib/libmm-color-convertor.so \
+    vendor/qcom/proprietary/system/lib/libmmosal.so:/system/lib/libmmosal.so \
+    vendor/qcom/proprietary/system/lib/libnetmonitor.so:/system/lib/libnetmonitor.so \
     vendor/qcom/proprietary/system/lib/libOpenVG.so:/system/lib/libOpenVG.so \
-    vendor/qcom/proprietary/system/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so
+    vendor/qcom/proprietary/system/lib/libqc-opt.so:/system/lib/libqc-opt.so \
+    vendor/qcom/proprietary/system/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
+    vendor/qcom/proprietary/system/lib/libtcpfinaggr.so:/system/lib/libtcpfinaggr.so \
+    vendor/qcom/proprietary/system/lib/libv8.so:/system/lib/libv8.so \
+    vendor/qcom/proprietary/system/lib/pp_proc_plugin.so:/system/lib/pp_proc_plugin.so \
+    vendor/qcom/proprietary/system/lib/qnet-plugin.so:/system/lib/qnet-plugin.so \
+    vendor/qcom/proprietary/system/lib/tcp-connections.so:/system/lib/tcp-connections.so
