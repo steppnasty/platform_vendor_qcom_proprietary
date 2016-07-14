@@ -70,10 +70,12 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/proprietary/system/lib/libOpenVG.so:/system/lib/libOpenVG.so \
     vendor/qcom/proprietary/system/lib/libqc-opt.so:/system/lib/libqc-opt.so \
     vendor/qcom/proprietary/system/lib/libqomx_jpegenc.so:/system/lib/libqomx_jpegenc.so \
+    vendor/qcom/proprietary/system/lib/libQSEEComAPI.so:/system/lib/libQSEEComAPI.so \
     vendor/qcom/proprietary/system/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/qcom/proprietary/system/lib/libtcpfinaggr.so:/system/lib/libtcpfinaggr.so \
     vendor/qcom/proprietary/system/lib/libv8.so:/system/lib/libv8.so \
     vendor/qcom/proprietary/system/lib/libwvm.so:/system/lib/libwvm.so \
+    vendor/qcom/proprietary/system/lib/libWVStreamControlAPI_L1.so:/system/lib/libWVStreamControlAPI_L1.so \
     vendor/qcom/proprietary/system/lib/pp_proc_plugin.so:/system/lib/pp_proc_plugin.so \
     vendor/qcom/proprietary/system/lib/qnet-plugin.so:/system/lib/qnet-plugin.so \
     vendor/qcom/proprietary/system/lib/tcp-connections.so:/system/lib/tcp-connections.so
