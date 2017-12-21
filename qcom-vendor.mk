@@ -63,6 +63,7 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/proprietary/system/lib/libjpegehw.so:/system/lib/libjpegehw.so \
     vendor/qcom/proprietary/system/lib/libllvm-arm.so:/system/lib/libllvm-arm.so \
     vendor/qcom/proprietary/system/lib/libmm-color-convertor.so:/system/lib/libmm-color-convertor.so \
+    vendor/qcom/proprietary/system/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/qcom/proprietary/system/lib/libmmosal.so:/system/lib/libmmosal.so \
     vendor/qcom/proprietary/system/lib/libmmqjpeg_codec.so:/system/lib/libmmqjpeg_codec.so \
     vendor/qcom/proprietary/system/lib/libnetmonitor.so:/system/lib/libnetmonitor.so \
