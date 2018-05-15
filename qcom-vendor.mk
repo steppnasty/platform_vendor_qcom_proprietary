@@ -58,6 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/proprietary/system/lib/libdnshostprio.so:/system/lib/lilbdnshostprio.so \
     vendor/qcom/proprietary/system/lib/libfastcvopt.so:/system/lib/libfastcvopt.so \
     vendor/qcom/proprietary/system/lib/libgsl.so:/system/lib/libgsl.so \
+    vendor/qcom/proprietary/system/lib/libjpegdhw.so:/system/lib/libjpegdhw.so \
     vendor/qcom/proprietary/system/lib/libjpegehw.so:/system/lib/libjpegehw.so \
     vendor/qcom/proprietary/system/lib/libllvm-arm.so:/system/lib/libllvm-arm.so \
     vendor/qcom/proprietary/system/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
@@ -65,6 +66,7 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/proprietary/system/lib/libnetmonitor.so:/system/lib/libnetmonitor.so \
     vendor/qcom/proprietary/system/lib/libOpenCL.so:/system/lib/libOpenCL.so \
     vendor/qcom/proprietary/system/lib/libOpenVG.so:/system/lib/libOpenVG.so \
+    vendor/qcom/proprietary/system/lib/libqomx_jpegdec.so:/system/lib/libqomx_jpegdec.so \
     vendor/qcom/proprietary/system/lib/libqomx_jpegenc.so:/system/lib/libqomx_jpegenc.so \
     vendor/qcom/proprietary/system/lib/libQSEEComAPI.so:/system/lib/libQSEEComAPI.so \
     vendor/qcom/proprietary/system/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
